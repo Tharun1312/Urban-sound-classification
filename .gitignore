@@ -1,0 +1,25 @@
+# Dataset (too large for GitHub)
+UrbanSound8K/
+
+# Model files (large)
+*.keras
+*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+
+# Large pickle files
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
